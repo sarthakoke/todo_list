@@ -37,3 +37,5 @@ This is a beginner-friendly Python project: a simple **command-line To-Do List**
 - Sort tasks by status or date
 - GUI version using Tkinter or PyQt
 - Export to CSV or TXT
+## 👨‍💻 Author
+Made by Sarthak Oke feel free to contribute!
